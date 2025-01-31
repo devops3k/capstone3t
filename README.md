@@ -1,6 +1,8 @@
-# Three-Tier Application Architecture Example
+# Three-Tier Capstone - Take Home Project
 
-This repository demonstrates a complete three-tier application architecture using containers and Kubernetes orchestration. It provides working examples of containerization patterns, service discovery, and deployment configurations across all three tiers.
+This is a take-home Capstone project for anyone interested in furthering what they learned in the Kubernetes course and the main capstone project. This project takes it further by having you containerize three separate applications of a 3-tier solution. Each tier is its own app. The details for each are located in the relevant repositories.
+
+We recommend you first containerize and run the database (db), followed by the mid tier (mid) followed at last by the front end(pxfe).
 
 ## Repository Structure
 
